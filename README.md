@@ -3,6 +3,8 @@
 A simple command-line task tracker built with Node.js. Tasks are stored locally in
 `tasks.json`, so no database or external service is required.
 
+Project specification: https://roadmap.sh/projects/task-tracker
+
 ## Project Specification
 
 The application provides a minimal interface for managing personal tasks:
